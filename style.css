@@ -1,0 +1,33 @@
+.add-button {
+    border: 1px solid #000000;
+    padding: 10px 20px;
+    color: #000000;
+    display: inline-block;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.submit {
+    background: #9900ff;
+    padding: 10px 50px;
+    color: #ffffff;
+    display: block;
+    font-weight: 600;
+    border: 0;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+#gallery {
+    display: flex;
+}
+
+
+.container > div {
+    position: relative;
+}
+
+.close-image-icon {
+    position: absolute;
+    right: 0;
+}
